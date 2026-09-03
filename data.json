@@ -1,0 +1,92 @@
+{
+  "gallery": [
+    {
+      "src": "images/01.jpg",
+      "number": 1,
+      "quote": "If music be the food of love, play on''",
+      "author": "William Shakespeare",
+      "year": 2026,
+      "copyright": "\u00A9 Annie Leibovitz"
+    },
+    {
+      "src": "images/02.jpg",
+      "number": 2,
+      "quote": "Music is the strongest form of magic''",
+      "author": "Marilyn Manson",
+      "year": 2026,
+      "copyright": "\u00A9 Henri Cartier-Bresson"
+    },
+    {
+      "src": "images/03.jpg",
+      "number": 3,
+      "quote": "The beautiful thing about learning is nobody can take it away from you''",
+      "author": "B.B. King",
+      "year": 2026,
+      "copyright": "\u00A9 Dorothea Lange"
+    },
+    {
+      "src": "images/05.jpg",
+      "number": 97,
+      "quote": "I bomb atomacaly''",
+      "author": "Inspectah Deck",
+      "year": 2006,
+      "copyright": "\u00A9 Hugh Masekela"
+    },
+    {
+      "src": "images/04.jpg",
+      "number": 4,
+      "quote": "You have to fight to reach your dream''",
+      "author": "Aretha Franklin",
+      "year": 2026,
+      "copyright": "\u00A9 Ansel Adams"
+    },
+    {
+      "src": "images/06.jpg",
+      "number": 6,
+      "quote": "I don't need time, I need a deadline''",
+      "author": "Duke Ellington",
+      "year": 2026,
+      "copyright": "\u00A9 Richard Avedon"
+    },
+    {
+      "src": "images/07.jpg",
+      "number": 7,
+      "quote": "Hee Hee''",
+      "author": "Bob Dylan",
+      "year": 2026,
+      "copyright": "\u00A9 Steve McCurry"
+    },
+    {
+      "src": "images/08.jpg",
+      "number": 8,
+      "quote": "I would rather be hated for who I am than loved for who I am not''",
+      "author": "Kurt Cobain",
+      "year": 2026,
+      "copyright": "\u00A9 Robert Capa"
+    },
+    {
+      "src": "images/09.jpg",
+      "number": 9,
+      "quote": "The only truth is music''",
+      "author": "Jack Kerouac",
+      "year": 2026,
+      "copyright": "\u00A9 Cindy Sherman"
+    },
+    {
+      "src": "images/10.jpg",
+      "number": 10,
+      "quote": "I am the entertainer, and I know just where I stand''",
+      "author": "Billy Joel",
+      "year": 2026,
+      "copyright": "\u00A9 Edward Weston"
+    },
+    {
+      "src": "images/11.jpg",
+      "number": 11,
+      "quote": "Without music, life would be a mistake''",
+      "author": "Friedrich Nietzsche",
+      "year": 2026,
+      "copyright": "\u00A9 Diane Arbus"
+    }
+  ]
+}
